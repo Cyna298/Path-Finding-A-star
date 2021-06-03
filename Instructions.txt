@@ -1,0 +1,4 @@
+Left click on white path to set the intial point
+Then Left click to set a destination
+
+NOTE:You can replace the map.png with any png file with black background and white paths.

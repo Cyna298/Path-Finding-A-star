@@ -77,7 +77,7 @@ First you would need to download and setup the SFML library in the IDE of your c
   ```sh
   https://www.sfml-dev.org/download.php
   ```
-And then simply run the [main.cpp](main.cpp) file
+And then simply run the [main.cpp]('Code Files'/main.cpp) file
 
 
 
@@ -138,4 +138,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-shield]: https://img.shields.io/github/license/Cyna298/Path-Finding-A-star.svg?style=for-the-badge
 [license-url]: https://github.com/Cyna298/Path-Finding-A-star/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Cyna298
+[linkedin-url]: https://www.linkedin.com/in/mubariz-barkat-ali-0a8b86191/
